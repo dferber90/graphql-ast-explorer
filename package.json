@@ -1,5 +1,5 @@
 {
-  "name": "graphql-ast-visualizer",
+  "name": "graphql-ast-explorer",
   "private": true,
   "scripts": {
     "lint": "eslint modules",

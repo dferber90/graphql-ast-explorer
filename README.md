@@ -1,13 +1,13 @@
-# GraphQL AST Visualizer
+# GraphQL AST Explorer
 
 Visualizes GraphQL AST's interactively.
 
-Explore at [dferber90.github.io/graphql-ast-visualizer](http://dferber90.github.io/graphql-ast-visualizer/).
+Explore at [dferber90.github.io/graphql-ast-explorer](http://dferber90.github.io/graphql-ast-explorer/).
 
 ## Start Development
 ```
-$ git clone git@github.com:dferber90/graphql-ast-visualizer.git
-$ cd graphql-ast-visualizer
+$ git clone git@github.com:dferber90/graphql-ast-explorer.git
+$ cd graphql-ast-explorer
 $ npm install
 $ npm start
 ```

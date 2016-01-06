@@ -51,7 +51,7 @@ const App = React.createClass({
     return (
       <div className="layout">
         <div className="layout-heading">
-          <p>GraphQL AST Visualizer</p>
+          <p>GraphQL AST Explorer</p>
           <hr/>
         </div>
         <div className="layout-body">
@@ -80,7 +80,7 @@ const App = React.createClass({
         <div className="layout-footer">
           <a href="https://github.com/dferber90" target="_blank">@dferber90</a>
           {' '}
-          (<a href="https://github.com/dferber90/graphql-ast-visualizer" target="_blank">source</a>)
+          (<a href="https://github.com/dferber90/graphql-ast-explorer" target="_blank">source</a>)
         </div>
       </div>
     )
