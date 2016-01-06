@@ -1,0 +1,12 @@
+parser: babel-eslint
+
+extends: airbnb
+
+plugins:
+  - react
+
+rules:
+  semi: [2, 'never']
+  no-throw-literal: 0
+  no-unexpected-multiline: 2
+  react/prefer-es6-class: 0
