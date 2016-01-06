@@ -79,6 +79,7 @@ const App = React.createClass({
         </div>
         <div className="layout-footer">
           <a href="https://github.com/dferber90" target="_blank">@dferber90</a>
+          {' '}
           (<a href="https://github.com/dferber90/graphql-ast-visualizer" target="_blank">source</a>)
         </div>
       </div>
