@@ -14,6 +14,7 @@ html, body {
 #app {
   width: 100%;
   height: 100%;
+  min-width: 720px;
 }
 
 .layout {
@@ -63,4 +64,9 @@ html, body {
 
 .validity {
   color: #999;
+}
+
+/* fix page margin on right */
+.json-inspector__line:after {
+  right: 0;
 }
