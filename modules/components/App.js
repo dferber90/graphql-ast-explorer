@@ -80,7 +80,9 @@ const App = React.createClass({
         <div className="layout-footer">
           <a href="https://github.com/dferber90" target="_blank">@dferber90</a>
           {' '}
-          (<a href="https://github.com/dferber90/graphql-ast-explorer" target="_blank">source</a>)
+          (<a href="https://github.com/dferber90/graphql-ast-explorer" target="_blank">source</a>).
+          {' '}
+          For mature version, check out <a href="http://astexplorer.net/" target="_blank">astexplorer.net</a>.
         </div>
       </div>
     )

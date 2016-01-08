@@ -4,6 +4,8 @@ Visualizes GraphQL AST's interactively.
 
 Explore at [dferber90.github.io/graphql-ast-explorer](http://dferber90.github.io/graphql-ast-explorer/).
 
+For mature version, check out [astexplorer.net](http://astexplorer.net/).
+
 ## Start Development
 ```
 $ git clone git@github.com:dferber90/graphql-ast-explorer.git
